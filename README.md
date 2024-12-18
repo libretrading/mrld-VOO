@@ -1,4 +1,4 @@
-# LibreTrading.org: #mrld-VOO
+# mrld-VOO
 
 Welcome to the Mean Reversion Long Daily strategy for VOO #mrld-VOO repository! This is an open-source trading strategy designed to identify profitable opportunities in the market using a combination of the Relative Strength Index (RSI) and Exponential Moving Averages (EMA). The strategy is applied to the VOO ETF and can be automated on platforms like Alpaca.
 
