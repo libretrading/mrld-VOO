@@ -74,7 +74,7 @@ We welcome contributions from the community! Feel free to:
 ---
 
 ## Support
-If you need help automating this strategy, reach out to our friends at Plutarco or visit [LibreTrading.org](https://libretrading.org) for more resources.
+If you need help automating this strategy, reach out to our friends at [Plutarco](https://plutarco.tech) or visit [LibreTrading.org](https://libretrading.org) for more resources.
 
 ---
 
